@@ -2,7 +2,9 @@
 Unsupervised Learning Homework
 
 ## Libraries/Languages
-1. Pandas
+1. Python
+2. Jupyter Notebook
+2. Pandas
 2. HoloViz (hvplots)
 3. Scikit Learn
 4. KMeans
